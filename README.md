@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rajcharchil/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0238-product-of-array-except-self](https://github.com/Rajcharchil/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rajcharchil/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rajcharchil/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
