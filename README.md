@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rajcharchil/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rajcharchil/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Rajcharchil/LeetCode/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Rajcharchil/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Rajcharchil/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
